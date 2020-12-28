@@ -3,3 +3,7 @@ Ruby Exercises from The Odin Project
 
 Repository of solutions for The Odin Project
 
+Summary of Solutions:
+
+1) caesar cipher solution
+2) substring solution
