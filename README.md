@@ -7,3 +7,4 @@ Summary of Solutions:
 
 1) caesar cipher solution
 2) substring solution
+3) stock picker solution
